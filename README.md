@@ -1,5 +1,5 @@
 # Frontend Mentor - Advice generator app
-<a> https://sparkly-mandazi-d77365.netlify.app/ </a>
+<a target="__blank"> https://sparkly-mandazi-d77365.netlify.app/ </a>
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
